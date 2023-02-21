@@ -24,3 +24,5 @@ We are class of 2024 Systems and Biomedical Engineering, at Cairo university.
  * plot Mel scale. 
  * plot mfcc for the output.
  
+ ## Demo:
+![]()
